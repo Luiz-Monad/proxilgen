@@ -1,0 +1,11 @@
+You should use Paket's github dependency to include the ProxILGen.fs file into your
+project.
+
+  https://fsprojects.github.io/Paket/github-dependencies.html
+
+Or in short:
+
+  github Luiz-Monad/ProxILGen ProxILGen.fs
+
+
+Also, if you want to compile out-of-the box you can just add Luiz-Monad/ProxILGen.fs to your SCM system.

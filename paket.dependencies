@@ -1,0 +1,8 @@
+version 5.257.0
+source https://api.nuget.org/v3/index.json
+storage: none
+framework: netcoreapp3.1
+
+nuget FSharp.Core ~> 4.7
+nuget Lokad.ILPack
+nuget System.Runtime.Caching
